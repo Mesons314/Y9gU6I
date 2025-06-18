@@ -1,16 +1,24 @@
-# ubixstar
+# 📱 Assignment App
 
-A new Flutter project.
+The **Assignment App** is a simple yet interactive Flutter application built to demonstrate dynamic widget rendering, Firebase Firestore integration, and user-driven UI logic. It supports saving text input to Firebase and optionally uploading an image. The UI changes based on the selected widgets, providing flexibility and showcasing responsive design with `flutter_screenutil`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔤 Save and display text input using Firebase Firestore
+- 🖼️ Upload images from the gallery (image shown locally)
+- 🧩 Add widgets dynamically (Text Field, Image Upload, Save Button)
+- 📱 Responsive layout using `ScreenUtil`
+- ✅ Reusable components for easy scalability
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🗂️ Project Structure
+
+## Project Structure
+
+- `lib/main.dart` – Entry point of the app.
+- `lib/Screens/home_page.dart` – Main widget rendering logic.
+- `lib/Screens/widget_selection.dart` – Widget selection interface.
+- `lib/Widget/` – Reusable custom widgets like buttons .
