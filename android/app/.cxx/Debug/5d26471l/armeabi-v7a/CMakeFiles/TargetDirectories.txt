@@ -1,0 +1,2 @@
+C:/ubixstar/android/app/.cxx/Debug/5d26471l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/ubixstar/android/app/.cxx/Debug/5d26471l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

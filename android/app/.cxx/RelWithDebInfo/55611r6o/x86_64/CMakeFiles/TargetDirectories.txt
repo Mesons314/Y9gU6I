@@ -1,0 +1,2 @@
+C:/ubixstar/android/app/.cxx/RelWithDebInfo/55611r6o/x86_64/CMakeFiles/edit_cache.dir
+C:/ubixstar/android/app/.cxx/RelWithDebInfo/55611r6o/x86_64/CMakeFiles/rebuild_cache.dir

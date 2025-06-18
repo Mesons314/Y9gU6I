@@ -1,0 +1,2 @@
+C:/ubixstar/android/app/.cxx/RelWithDebInfo/55611r6o/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/ubixstar/android/app/.cxx/RelWithDebInfo/55611r6o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
